@@ -23,4 +23,5 @@ function insert(num)
             {
                 document.getElementById('resultado').innerHTML = "Nada..."
             }
+            
         }
